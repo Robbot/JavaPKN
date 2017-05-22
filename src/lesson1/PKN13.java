@@ -1,6 +1,6 @@
 package lesson1;
 //Java Tutorial For Beginners 13 - Arrays in Java 
-public class Arrays {
+public class PKN13 {
 	public static void main(String[] args){
 		int[] myintarray = {100,31,26,48,52};
 		/*
